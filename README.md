@@ -9,7 +9,7 @@ starting-point for Browser based Apps
     - link to styleseet *app.css*
   - body
     - script tag for *app.js*
-### css/app.css
+### app.css
   - reset margins
-### js/app.js
+### app.js
   - colsole log out "test message"
